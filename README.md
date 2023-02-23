@@ -1,0 +1,1 @@
+# Sonarqube-bash_shell-script
